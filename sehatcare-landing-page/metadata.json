@@ -1,0 +1,6 @@
+{
+  "name": "SehatCare Landing Page",
+  "description": "Sebuah landing page premium interaktif untuk platform telemedis SehatCare dengan simulasi dashboard kesehatan, konsultasi video, jadwal dokter, dan pelacak obat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
